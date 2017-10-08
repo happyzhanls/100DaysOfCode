@@ -18,4 +18,13 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Thoughts:** Just looking at the digimon chart I made kinda reminds me of my happy memories.
 
 **Link to work:** 
-1. [Intermediate HTML](https://codepen.io/linsong/pen/gRXrzq)
+1. [Intermediate HTML - A table review](https://codepen.io/linsong/pen/gRXrzq)
+
+### Day 2: Thursday, October 5th, 2017
+
+**Today's Progress**: R1D3 #100DaysOfCode @consonanceng  Studied a bit about jQuery.
+
+**Thoughts:** the input tag in html is really fun. You can do so many different types.
+
+**Link to work:** 
+1. [Intermediate HTML - A input tag review](https://codepen.io/linsong/pen/YreeLw)
