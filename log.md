@@ -19,7 +19,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 
 **Link to work:** 
 1. [Intermediate HTML - A table review](https://codepen.io/linsong/pen/gRXrzq)
-
+---
 ### Day 3: Friday, October 6th, 2017
 
 **Today's Progress**: Studied a bit about jQuery.
@@ -28,7 +28,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 
 **Link to work:** 
 1. [Intermediate HTML - A input tag review](https://codepen.io/linsong/pen/YreeLw)
-
+---
 ### Day 4: Saturday, October 7th, 2017
 
 **Today's Progress**: Studied more about jQuery val(), attr() and so on. Reviewed some basic CSS selectors.
