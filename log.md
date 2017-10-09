@@ -37,3 +37,13 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 
 **Link to work:** 
 1. [Basic CSS - A Selector Exercise](https://codepen.io/linsong/pen/MEVYqp)
+---
+### Day 5: Sunday, October 8th, 2017
+
+**Today's Progress**: Reviewed and Studied the concept of The Box Model in CSS by a project called Tic Tac Toe Board.
+
+**Thoughts:** I watched couple league of legends 2017 world championship live matches until late night. It was fun to watch yet bad for my sleeping quality. I ended up with getting up very late and cannot concentrate very well. So definitly it's not a good thing to do. But the Tic Tac Toe board is kinda amazing to make. Also I find there's a better tic tac toe application made by JavaScript online. Just Search: "tic tac toe" via Google and play it!
+
+**Link to work:** 
+1. [Tic Tac Toe Board](https://codepen.io/linsong/pen/oGqGEr)
+---
