@@ -47,3 +47,12 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Tic Tac Toe Board](https://codepen.io/linsong/pen/oGqGEr)
 ---
+### Day 6: Monday, October 9th, 2017
+
+**Today's Progress**: jQuery's on() works similarly to addEventListener(). It's a powerful method that can replace with many others events like click() and keypress().
+
+**Thoughts:** It is snowing in Fort Collins, which is cool. I have been focus on finishing my project proposal for power system. But got some time watching videos about jQuery Event: click, keypress and the most important - on methods. Also one video about jQuery effects: fadeOut, fadeIn, fadeToggle, slideDown, slideUp and slideToggle. 
+
+**Link to work:** 
+1. [An Image Grid](https://codepen.io/linsong/pen/jGxyMx)
+---
