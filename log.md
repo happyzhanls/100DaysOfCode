@@ -56,3 +56,12 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [An Image Grid](https://codepen.io/linsong/pen/jGxyMx)
 ---
+### Day 7: Tuesday, October 10th, 2017
+
+**Today's Progress**: worked mostly on my course project but also reviewed some pure CSS properties by making this CSS blog.
+
+**Thoughts:** Nothing reaaally. Well, it's a busy day.
+
+**Link to work:** 
+1. [CSS Blog](https://codepen.io/linsong/pen/Qqxbop)
+---
