@@ -72,5 +72,5 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Thoughts:** I was being stressed out at 5 pm today because I didn't find the project topic, which is due tomorrow at 11:59pm. So all the day my mind and energy are focused on getting the project proposal done.
 
 **Link to work:** 
-1. [None]
+1. [Image Gallery](https://codepen.io/linsong/pen/qPyOag)
 ---
