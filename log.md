@@ -69,8 +69,17 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 
 **Today's Progress**: worked more on course project proposal. More on classes in Grid System like "row" and "col-md-3"in the bootstrap components. Also the "jumbotron".
 
-**Thoughts:** I was being stressed out at 5 pm today because I didn't find the project topic, which is due tomorrow at 11:59pm. So all the day my mind and energy are focused on getting the project proposal done.
+**Thoughts:** I was being stressed out at 5 am in the morning. So all the day my mind is just not there. God damn the project proposal for ECE509. I don't like that course because it's really boring and stupid. 
 
 **Link to work:** 
-1. [Image Gallery](https://codepen.io/linsong/pen/qPyOag)
+1. [Image Gallery About Love](https://codepen.io/linsong/pen/qPyOag)
+---
+### Day 9: Thursday, October 12th, 2017
+
+**Today's Progress**:  Added a click button on the bottom of the Image Gallery which is linked to the source of the images -> unsplash.com. 
+
+**Thoughts:** The fking proposal is due today finally. Yeeeeeeah, I don't have to worry about it for a while. 
+
+**Link to work:** 
+1. [Image Gallery About Love](https://codepen.io/linsong/pen/qPyOag)
 ---
