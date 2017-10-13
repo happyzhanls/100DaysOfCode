@@ -76,9 +76,18 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 ---
 ### Day 9: Thursday, October 12th, 2017
 
-**Today's Progress**:  Added a click button on the bottom of the Image Gallery which is linked to the source of the images -> unsplash.com. 
+**Today's Progress**: Added a click button on the bottom of the Image Gallery which is linked to the source of the images -> unsplash.com. 
 
 **Thoughts:** The fking proposal is due today finally. Yeeeeeeah, I don't have to worry about it for a while. 
+
+**Link to work:** 
+1. [Image Gallery About Love](https://codepen.io/linsong/pen/qPyOag)
+---
+### Day 10: Friday, October 13th, 2017
+
+**Today's Progress**: still 
+
+**Thoughts:** Woke up at 10:30am because I watched the lol s7 matches. No comments on that.
 
 **Link to work:** 
 1. [Image Gallery About Love](https://codepen.io/linsong/pen/qPyOag)
