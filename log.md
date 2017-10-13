@@ -85,7 +85,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 ---
 ### Day 10: Friday, October 13th, 2017
 
-**Today's Progress**: still 
+**Today's Progress**: What the backend is and how it works.
 
 **Thoughts:** Woke up at 10:30am because I watched the lol s7 matches. No comments on that.
 
