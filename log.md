@@ -94,7 +94,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 ---
 ### Day 11: Saturday, October 14th, 2017
 
-**Today's Progress**: Start working on "The Great Color Guessing Game" project, which is a game for you to practice RGB colors.
+**Today's Progress**: Start working on "Color Game project", which is a game for you to practice RGB colors.
 
 **Thoughts:** Started feeling a little bit discouraged for some reasons that there are nobody around doing the same thing as me. I admitt that I doubted myself why I keep doing this. 
 
@@ -103,9 +103,9 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 ---
 ### Day 12: Sunday, October 15th, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Continue to add more features on "Color Game Project".
 
-**Thoughts:** Started feeling a little bit discouraged for some reasons that there are nobody around doing the same thing as me. I admitt that I doubted myself why I keep doing this. 
+**Thoughts:** Toss === Throw. But the former one sounds more formal than the latter one.
 
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
