@@ -103,7 +103,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 ---
 ### Day 12: Sunday, October 15th, 2017
 
-**Today's Progress**: Continue to add more features on "Color Game Project".
+**Today's Progress**: Added a reset button at the bottom for "Color Game Project".
 
 **Thoughts:** Toss === Throw. But the former one sounds more formal than the latter one.
 
