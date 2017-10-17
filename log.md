@@ -110,3 +110,12 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+### Day 13: Monday, October 16th, 2017
+
+**Today's Progress**: Now the "Color Game Project" will generate random rgb colors when you refresh the page or click the reset button. Also I just signed up my cloud9 account for the sake of the back-end development. Excited!
+
+**Thoughts:** Keyboard English: "-" is called "dash" and "\_" is called "underscore". And also super excited for the upcoming brand-new back-end lessons of web development bootcamp.
+
+**Link to work:** 
+1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
+---
