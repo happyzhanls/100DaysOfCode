@@ -119,3 +119,12 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+### Day 14: Tuesday, October 17th, 2017
+
+**Today's Progress**: Reorganized the location of the reset button and Added a score keeper to keep track of your current score.
+
+**Thoughts:** Got up early so study early. A peaceful mind set is really important for your day my friend. So keep calm and laugh more, these things can build up your confident and gain more energy.
+
+**Link to work:** 
+1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
+---
