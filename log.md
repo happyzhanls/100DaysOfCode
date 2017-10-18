@@ -121,7 +121,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 ---
 ### Day 14: Tuesday, October 17th, 2017
 
-**Today's Progress**: Reorganized the position of the reset button, still working on an easy mode which only consists of 3 squares.
+**Today's Progress**: Reorganized the position of the reset button, added an easy mode which only consists of 3 squares and also add more functions to my code! 
 
 **Thoughts:** Got up early so study early. A peaceful mind set is really important for your day my friend. So keep calm and laugh more, these things can build up your confident and gain more energy.
 
