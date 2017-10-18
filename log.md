@@ -121,7 +121,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 ---
 ### Day 14: Tuesday, October 17th, 2017
 
-**Today's Progress**: Reorganized the location of the reset button and Added a score keeper to keep track of your current score.
+**Today's Progress**: Reorganized the position of the reset button, still working on an easy mode which only consists of 3 squares.
 
 **Thoughts:** Got up early so study early. A peaceful mind set is really important for your day my friend. So keep calm and laugh more, these things can build up your confident and gain more energy.
 
