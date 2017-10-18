@@ -128,3 +128,12 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+### Day 15: Wednesday, October 18th, 2017
+
+**Today's Progress**: Working on the styling of the site. 
+
+**Thoughts:** Lost sleep at night and got weirdly excited about adding more features to my project :(
+
+**Link to work:** 
+1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
+---
