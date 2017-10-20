@@ -137,3 +137,11 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+### Day 16: Thursday, October 19th, 2017
+
+**Today's Progress**: Started practicing Node Js on c9. Want to share a blog I read today about [JavaScript scoping and  hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
+
+**Thoughts:** Insomnia really ruins my day. So I went to the Health Center near college and bought some medicine for it. Hope it's gonna be a sleepy night :)
+
+**Link to work:** 
+---
