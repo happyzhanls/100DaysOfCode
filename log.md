@@ -144,4 +144,15 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Thoughts:** Insomnia really ruins my day. So I went to the Health Center near college and bought some medicine for it. Hope it's gonna be a sleepy night :)
 
 **Link to work:** 
+1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+### Day 17: Friday, October 20th, 2017
+
+**Today's Progress**: working on creating my first Express.js app on c9. #NodeJS
+
+**Thoughts:** Studying, eating and sleeping. They pretty much describe my day.
+
+**Link to work:** 
+1. [Express.js](https://ide.c9.io/danielzhan/the-matrix)
+---
+
