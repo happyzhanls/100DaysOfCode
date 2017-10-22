@@ -155,4 +155,12 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Express.js](https://ide.c9.io/danielzhan/the-matrix)
 ---
+### Day 18: Saturday, October 21th, 2017
 
+**Today's Progress**: Continue studying the server side frameworks - Express. What's package.json and npm -init
+
+**Thoughts:** Fking doing nothing today. Ended up with playing KOF98 for 3 hours.
+
+**Link to work:** 
+1. [Express.js](https://ide.c9.io/danielzhan/the-matrix)
+---
