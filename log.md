@@ -171,5 +171,5 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Thoughts:** Feels good man!
 
 **Link to work:** 
-1. [Express.js](https://ide.c9.io/danielzhan/the-matrix)
+1. [danielzhan:~/workspace/IntroToExpress/Assignment/Solution](https://ide.c9.io/danielzhan/the-matrix)
 ---
