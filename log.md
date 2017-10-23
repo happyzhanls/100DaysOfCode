@@ -164,3 +164,12 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Express.js](https://ide.c9.io/danielzhan/the-matrix)
 ---
+### Day 19: Sunnday, October 22th, 2017
+
+**Today's Progress**: Got to know more about Route Params in Express. And actually finish the Express Routing Assignment by myself.
+
+**Thoughts:** Feels good man!
+
+**Link to work:** 
+1. [Express.js](https://ide.c9.io/danielzhan/the-matrix)
+---
