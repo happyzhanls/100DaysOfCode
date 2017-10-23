@@ -166,7 +166,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 ---
 ### Day 19: Sunnday, October 22th, 2017
 
-**Today's Progress**: Got to know more about Route Params in Express. And actually finish the Express Routing Assignment by myself.
+**Today's Progress**: Studied Route Params syntax in express.js by actually completing an Express Routing Assignment! Good night America!
 
 **Thoughts:** Feels good man!
 
