@@ -164,7 +164,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Express.js](https://ide.c9.io/danielzhan/the-matrix)
 ---
-### Day 19: Sunnday, October 22th, 2017
+### Day 19: Sunday, October 22th, 2017
 
 **Today's Progress**: Studied Route Params syntax in express.js by actually completing an Express Routing Assignment! Good night America!
 
@@ -172,4 +172,14 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 
 **Link to work:** 
 1. [danielzhan:~/workspace/IntroToExpress/Assignment/Solution](https://ide.c9.io/danielzhan/the-matrix)
+---
+
+### Day 20: Monday, October 23th, 2017
+
+**Today's Progress**: Reviewed some unfamiliar Bootstrap components. Posted another bootstrap-based site. 
+
+**Thoughts:** Feels great man! But the ECE509's assignment sucks! 
+
+**Link to work:** 
+1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
 ---
