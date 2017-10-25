@@ -173,12 +173,20 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [danielzhan:~/workspace/IntroToExpress/Assignment/Solution](https://ide.c9.io/danielzhan/the-matrix)
 ---
-
 ### Day 20: Monday, October 23th, 2017
 
 **Today's Progress**: Reviewed some unfamiliar Bootstrap components. Posted another bootstrap-based site. 
 
 **Thoughts:** Feels great man! But the ECE509's assignment sucks! 
+
+**Link to work:** 
+1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
+---
+### Day 21: Tuesday, October 24th, 2017
+
+**Today's Progress**: Working on Matlab functions to achieve uniform and non-uniform quantization for HW. Getting more exercise on .ejs :)
+
+**Thoughts:** It's a busy day!
 
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
