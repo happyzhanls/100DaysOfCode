@@ -191,3 +191,12 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
 ---
+### Day 22: Wednesday, October 25th, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
+---
