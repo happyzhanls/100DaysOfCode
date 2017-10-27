@@ -191,11 +191,11 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
 ---
-### Day 22: Wednesday, October 25th, 2017
+### Day 23: Thursday, October 26th, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Digged into Express and .ejs linkage. Also gained naive understanding on Express Post Request. Exercised on both.
 
-**Thoughts:** 
+**Thoughts:** Finish Homework1 40 minutes before due date. I'm happy enough:)
 
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
