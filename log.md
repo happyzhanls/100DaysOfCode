@@ -200,3 +200,12 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
 ---
+### Day 24: Friday, October 27th, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** Finish Homework1 40 minutes before due date. I'm happy enough:)
+
+**Link to work:** 
+1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
+---
