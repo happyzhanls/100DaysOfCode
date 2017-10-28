@@ -202,9 +202,9 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 ---
 ### Day 24: Friday, October 27th, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Working on Express post request. gained experience creating app.post() but gosh it's hard to understand.
 
-**Thoughts:** Finish Homework1 40 minutes before due date. I'm happy enough:)
+**Thoughts:** Looking at https://www.youtube.com/watch?v=9VoLHdADma8 
 
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
