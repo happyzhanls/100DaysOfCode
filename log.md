@@ -209,3 +209,13 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
 ---
+
+### Day 25: Saturday, October 28th, 2017
+
+**Today's Progress**: Refactoring the variable names of my color game proj so that they make more sense :) 
+
+**Thoughts:** I won't watch any league of legends world championship games any more. Why am I watch a game that I don't play?
+
+**Link to work:** 
+1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
+---
