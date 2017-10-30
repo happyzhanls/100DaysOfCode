@@ -219,3 +219,13 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+
+### Day 26: Sunday, October 29th, 2017
+
+**Today's Progress**: Building a small Search Movie App using OMDB API on cloud9. Excited that API is just full of possibilities! 
+
+**Thoughts:** WE lost to SSG in LOL S7 semi-finals. I can feel the disappointment from the Chinese fans through my phone.  
+
+**Link to work:** 
+1. [danielzhan:~/workspace/APIs/movieSearchApp](https://ide.c9.io/danielzhan/the-matrix)
+---
