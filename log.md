@@ -11,6 +11,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Basic HTML](https://codepen.io/linsong/pen/JJXrpp)
 ---
+
 ### Day 2: Thursday, October 5th, 2017
 
 **Today's Progress**: Review another section for more HTML about Table.
@@ -20,6 +21,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Intermediate HTML - A table review](https://codepen.io/linsong/pen/gRXrzq)
 ---
+
 ### Day 3: Friday, October 6th, 2017
 
 **Today's Progress**: Studied a bit about jQuery.
@@ -29,6 +31,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Intermediate HTML - A input tag review](https://codepen.io/linsong/pen/YreeLw)
 ---
+
 ### Day 4: Saturday, October 7th, 2017
 
 **Today's Progress**: Studied more about jQuery val(), attr() and so on. Reviewed some basic CSS selectors.
@@ -38,6 +41,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Basic CSS - A Selector Exercise](https://codepen.io/linsong/pen/MEVYqp)
 ---
+
 ### Day 5: Sunday, October 8th, 2017
 
 **Today's Progress**: Reviewed and Studied the concept of The Box Model in CSS by a project called Tic Tac Toe Board.
@@ -47,6 +51,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Tic Tac Toe Board](https://codepen.io/linsong/pen/oGqGEr)
 ---
+
 ### Day 6: Monday, October 9th, 2017
 
 **Today's Progress**: jQuery's on() works similarly to addEventListener(). It's a powerful method that can replace with many others events like click() and keypress().
@@ -56,6 +61,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [An Image Grid](https://codepen.io/linsong/pen/jGxyMx)
 ---
+
 ### Day 7: Tuesday, October 10th, 2017
 
 **Today's Progress**: worked mostly on my course project but also reviewed some pure CSS properties by making this CSS blog.
@@ -65,6 +71,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [CSS Blog](https://codepen.io/linsong/pen/Qqxbop)
 ---
+
 ### Day 8: Wednesday, October 11th, 2017
 
 **Today's Progress**: worked more on course project proposal. More on classes in Grid System like "row" and "col-md-3"in the bootstrap components. Also the "jumbotron".
@@ -74,6 +81,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Image Gallery About Love](https://codepen.io/linsong/pen/qPyOag)
 ---
+
 ### Day 9: Thursday, October 12th, 2017
 
 **Today's Progress**: Added a click button on the bottom of the Image Gallery which is linked to the source of the images -> unsplash.com. 
@@ -83,6 +91,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Image Gallery About Love](https://codepen.io/linsong/pen/qPyOag)
 ---
+
 ### Day 10: Friday, October 13th, 2017
 
 **Today's Progress**: What the backend is and how it works.
@@ -92,6 +101,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Image Gallery About Love](https://codepen.io/linsong/pen/qPyOag)
 ---
+
 ### Day 11: Saturday, October 14th, 2017
 
 **Today's Progress**: Start working on "Color Game project", which is a game for you to practice RGB colors.
@@ -101,6 +111,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+
 ### Day 12: Sunday, October 15th, 2017
 
 **Today's Progress**: Added a reset button at the bottom for "Color Game Project".
@@ -110,6 +121,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+
 ### Day 13: Monday, October 16th, 2017
 
 **Today's Progress**: Added several functions to randomly generate and pick colors. Signed up on Cloud9 🙃
@@ -119,6 +131,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+
 ### Day 14: Tuesday, October 17th, 2017
 
 **Today's Progress**: Reorganized the position of the reset button, added an easy mode which only consists of 3 squares and also add more functions to my code! 
@@ -128,6 +141,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+
 ### Day 15: Wednesday, October 18th, 2017
 
 **Today's Progress**: Working on the styling of the site. 
@@ -137,6 +151,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+
 ### Day 16: Thursday, October 19th, 2017
 
 **Today's Progress**: Started practicing Node Js on c9. Want to share a blog I read today about [JavaScript scoping and  hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
@@ -146,6 +161,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+
 ### Day 17: Friday, October 20th, 2017
 
 **Today's Progress**: working on creating my first Express.js app on c9. #NodeJS
@@ -155,6 +171,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Express.js](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
 ### Day 18: Saturday, October 21th, 2017
 
 **Today's Progress**: Watched more videos and wrote routes containing route parameters in Express on #Cloud9
@@ -164,6 +181,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Express.js](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
 ### Day 19: Sunday, October 22th, 2017
 
 **Today's Progress**: Studied Route Params syntax in express.js by actually completing an Express Routing Assignment! Good night America!
@@ -173,6 +191,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [danielzhan:~/workspace/IntroToExpress/Assignment/Solution](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
 ### Day 20: Monday, October 23th, 2017
 
 **Today's Progress**: Reviewed some unfamiliar Bootstrap components. Posted another bootstrap-based site. 
@@ -182,6 +201,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
 ---
+
 ### Day 21: Tuesday, October 24th, 2017
 
 **Today's Progress**: Working on Matlab functions to achieve uniform and non-uniform quantization for HW. Getting more exercise on .ejs :)
@@ -191,6 +211,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
 ---
+
 ### Day 23: Thursday, October 26th, 2017
 
 **Today's Progress**: Digged into Express and .ejs linkage. Also gained naive understanding on Express Post Request. Exercised on both.
@@ -200,6 +221,7 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [Happy Woof App Landing Page](https://codepen.io/linsong/pen/vewQmO)
 ---
+
 ### Day 24: Friday, October 27th, 2017
 
 **Today's Progress**: Working on Express post request. gained experience creating app.post() but gosh it's hard to understand.
@@ -228,4 +250,14 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 
 **Link to work:** 
 1. [danielzhan:~/workspace/APIs/movieSearchApp](https://ide.c9.io/danielzhan/the-matrix)
+---
+
+### Day 27: Monday, October 30th, 2017
+
+**Today's Progress**: Created the initial workspace for Yelpcamp project. 
+
+**Thoughts:** Didn't get enough sleep last night for reading the three body problem novel. I think it's good to read book but also in the right time.
+
+**Link to work:** 
+1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
 ---
