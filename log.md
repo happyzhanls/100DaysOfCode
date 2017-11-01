@@ -264,9 +264,9 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 
 ### Day 28: Tuesday, October 31th, 2017
 
-**Today's Progress**: Created the initial workspace for Yelpcamp project. 
+**Today's Progress**: Add landing page and campground page that lists all the campgrounds (name and images) in my yelpcamp app.
 
-**Thoughts:** 
+**Thoughts:** Nothing in my mind right now.. 
 
 **Link to work:** 
 1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
