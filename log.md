@@ -261,3 +261,13 @@ The log of my #100DaysOfCode challenge. Started on [Wednesday, October 4th, 2017
 **Link to work:** 
 1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
+### Day 28: Tuesday, October 31th, 2017
+
+**Today's Progress**: Created the initial workspace for Yelpcamp project. 
+
+**Thoughts:** 
+
+**Link to work:** 
+1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
+---
