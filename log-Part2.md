@@ -31,9 +31,11 @@
 
 ### Day 29: Wednesday, November 1st, 2017
 
-**Today's Progress**: Create our header and footer partials and include bootstrap.css.
+**Today's Progress**: Create our header and footer partials and include bootstrap.css. Setup new campgrounds POST route and install body-parser. Add in unstyled form to add new campgrounds.
 
-**Thoughts:** Nothing in my mind right now.. 
+**Thoughts:**:
+req.body.Name <-> form-method:"post"-<input name="Name">
+req.query.Name <-> form-method:"get"-<input name="Name">
 
 **Link to work:** 
 1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
