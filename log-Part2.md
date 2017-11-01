@@ -40,3 +40,13 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 **Link to work:** 
 1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
+### Day 30: Thursday, November 2nd, 2017
+
+**Today's Progress**: Add a better header/title and make campground display in a grid system.
+
+**Thoughts:**:
+
+**Link to work:** 
+1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
+---
