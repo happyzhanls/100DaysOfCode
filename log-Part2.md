@@ -28,3 +28,13 @@
 **Link to work:** 
 1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
+### Day 29: Wednesday, November 1st, 2017
+
+**Today's Progress**: Create our header and footer partials and include bootstrap.css.
+
+**Thoughts:** Nothing in my mind right now.. 
+
+**Link to work:** 
+1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
+---
