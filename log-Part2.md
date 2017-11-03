@@ -43,9 +43,9 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 
 ### Day 30: Thursday, November 2nd, 2017
 
-**Today's Progress**: Add a better header/title and make campground display in a grid system.
+**Today's Progress**: Added a better header/title and make campground display in a grid ~ also some decent exercises on MongoDB and Mongoose.
 
-**Thoughts:**:
+**Thoughts:**: I love delicious food. Today I went to a resturant called "Youngs Cafe Vietnamese". The food there is so good that I feel very happy typing all these codes now!
 
 **Link to work:** 
 1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
