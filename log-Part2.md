@@ -48,5 +48,15 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 **Thoughts:**: I love delicious food. Today I went to a resturant called "Youngs Cafe Vietnamese". The food there is so good that I feel very happy typing all these codes now!
 
 **Link to work:** 
+1. [danielzhan:~/workspace/Database_NoSql](https://ide.c9.io/danielzhan/the-matrix)
+---
+
+### Day 31: Friday, November 3rd, 2017
+
+**Today's Progress**: Install and comfigure mongoose in our YelpCamp. Setup the campgrounds model and use it inside of our routes.
+
+**Thoughts:**: Big day, it's Friday again. Everyday is a different day, hm?
+
+**Link to work:** 
 1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
 ---
