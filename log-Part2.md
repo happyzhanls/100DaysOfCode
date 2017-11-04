@@ -53,7 +53,7 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 
 ### Day 31: Friday, November 3rd, 2017
 
-**Today's Progress**: Install and comfigure mongoose in our YelpCamp. Setup the campgrounds model and use it inside of our routes.
+**Today's Progress**: Add a Navbar to all the templates and style the new Campground Page.
 
 **Thoughts:**: Big day, it's Friday again. Everyday is a different day, hm?
 
