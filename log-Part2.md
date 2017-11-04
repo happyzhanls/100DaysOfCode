@@ -53,7 +53,7 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 
 ### Day 31: Friday, November 3rd, 2017
 
-**Today's Progress**: Add a Navbar to all the templates and style the new Campground Page.
+**Today's Progress**: Add a Navbar to all the templates and style the new Campground Page. Thinking about refactoring some old projects😝
 
 **Thoughts:**: Big day, it's Friday again. Everyday is a different day, hm?
 
