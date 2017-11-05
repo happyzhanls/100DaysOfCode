@@ -60,3 +60,13 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 **Link to work:** 
 1. [danielzhan:~/workspace/YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
+### Day 32: Saturday, November 4th, 2017
+
+**Today's Progress**: Add some awesome animate.css classes to my Color Game Project squares. Also rewrite the js file using more jQuery.😝
+
+**Thoughts:**: Animate.css is pretty interesting. It kind of forces me to learn more about jQuery.
+
+**Link to work:** 
+1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
+---
