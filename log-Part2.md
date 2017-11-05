@@ -63,7 +63,7 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 
 ### Day 32: Saturday, November 4th, 2017
 
-**Today's Progress**: Add some awesome animate.css classes to my Color Game Project squares. Also rewrite the js file using more jQuery.😝
+**Today's Progress**: Trying some interesting ideas : to rewrite my color game JavaScript part in jQuery and add animate.css classes.
 
 **Thoughts:**: Animate.css is pretty interesting. It kind of forces me to learn more about jQuery.
 
