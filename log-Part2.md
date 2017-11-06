@@ -70,3 +70,13 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 **Link to work:** 
 1. [Color Game Project](https://codepen.io/linsong/pen/xXyVad)
 ---
+
+### Day 33: Sunday, November 5th, 2017
+
+**Today's Progress**: Finish rewriting the main.js file of RGB Color Game in jQuery & add some funny animations.👍
+
+**Thoughts:**: I get one more hour to sleep today in the USA. That's actually pretty cool. ✌️
+
+**Link to work:** 
+1. [Color Game on Github](https://github.com/happyzhanls/RGB-Color-Game)
+---
