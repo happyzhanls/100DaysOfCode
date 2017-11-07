@@ -80,3 +80,13 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 **Link to work:** 
 1. [Color Game on Github](https://github.com/happyzhanls/RGB-Color-Game)
 ---
+
+### Day 34: Monday, November 6th, 2017
+
+**Today's Progress**: connect my YelpCamp with mongoDB by mongoose so that the data won't be affected badly cuz of system crash.💎💘👩
+
+**Thoughts:**: 
+
+**Link to work:** 
+1. [YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
+---
