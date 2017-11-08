@@ -90,3 +90,24 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 **Link to work:** 
 1. [YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
+### Day 35: Tuesday, November 6th, 2017
+
+**Today's Progress**: Watch colt's video introduction about RESTful routes. 
+
+A summary of RESTful routes:
+| URL | HTTP Verb | Action | Description |
+| :--- | :---: | :---: | :--- |
+| /dogs | GET | index | Show all items |
+| /dogs/new | GET | new | Show new form |
+| /dogs | POST | create | Create an item |
+| /dogs/:id | GET | show | Show item with :id |
+| /dogs/:id/edit | GET | edit | Show edit form for item with :id |
+| /dogs/:id | PATCH | update | Update item with :id |
+| /dogs/:id | DELETE | destroy | Delete item with :id |
+
+**Thoughts:**: Under some pressure from my family. Life is not always as you wish.
+
+**Link to work:** 
+1. [YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
+---
