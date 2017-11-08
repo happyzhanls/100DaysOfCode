@@ -96,6 +96,7 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 **Today's Progress**: Watch colt's video introduction about RESTful routes. 
 
 A summary of RESTful routes.
+
 | URL            | HTTP Verb | Action  | Description                      |
 | :------------- | :-------: | :-----: | :------------------------------- |
 | /dogs          | GET       | index   | Show all items                   |
@@ -105,6 +106,7 @@ A summary of RESTful routes.
 | /dogs/:id/edit | GET       | edit    | Show edit form for item with :id |
 | /dogs/:id      | PATCH     | update  | Update item with :id             |
 | /dogs/:id      | DELETE    | destroy | Delete item with :id             |
+
 
 **Thoughts:**: Under some pressure from my family. Life is not always as you wish.
 
