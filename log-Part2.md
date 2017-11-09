@@ -91,7 +91,7 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 1. [YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
 ---
 
-### Day 35: Tuesday, November 6th, 2017
+### Day 35: Tuesday, November 7th, 2017
 
 **Today's Progress**: Watch colt's video introduction about RESTful routes. 
 
@@ -109,6 +109,16 @@ A summary of RESTful routes.
 
 
 **Thoughts:**: Under some pressure from my family. Life is not always as you wish.
+
+**Link to work:** 
+1. [Color Game on Github](https://github.com/happyzhanls/RGB-Color-Game)
+---
+
+### Day 36: Wednesday, November 8th, 2017
+
+**Today's Progress**: Review the RESTful routes and add description to my campgroundModel, a show route in YelpCamp. 😝
+
+**Thoughts:**: I feel like learning web development tech on Udemy is such a pleasure comparing with writing a term project report. Man, that sucks.
 
 **Link to work:** 
 1. [YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
