@@ -123,3 +123,13 @@ A summary of RESTful routes.
 **Link to work:** 
 1. [YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
+### Day 37: Thursday, November 9th, 2017
+
+**Today's Progress**: Setup the Blog App and create the blog model. Add INDEX route and a simple nav bar. 😘
+
+**Thoughts:**: Bloody hell when you are tired of coding or even looking at others' codes.
+
+**Link to work:** 
+1. [BlogApp](https://ide.c9.io/danielzhan/the-matrix)
+---
