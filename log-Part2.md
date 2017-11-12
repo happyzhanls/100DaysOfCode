@@ -144,7 +144,7 @@ A summary of RESTful routes.
 1. none
 ---
 
-### Day 38: Friday, November 10th, 2017
+### Day 39: Saturday, November 11th, 2017
 
 **Today's Progress**: Meet up with lots of guys doing freecodecamp in fort collins. Had some fun about how we value coding differently. gonna start creating a my site. Long way to go!
 
