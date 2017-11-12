@@ -133,3 +133,23 @@ A summary of RESTful routes.
 **Link to work:** 
 1. [BlogApp](https://ide.c9.io/danielzhan/the-matrix)
 ---
+
+### Day 38: Friday, November 10th, 2017
+
+**Today's Progress**: Looking at some JavaFx tutorial and rewriting an old application using JavaFx. Hope I can finally do it without too much trouble.🤓
+
+**Thoughts:**: I mean it's ok not to code a lot on Friday.. But you got review something a little bit to make sure you are in a right direction.
+
+**Link to work:** 
+1. none
+---
+
+### Day 38: Friday, November 10th, 2017
+
+**Today's Progress**: Meet up with lots of guys doing freecodecamp in fort collins. Had some fun about how we value coding differently. gonna start creating a my site. Long way to go!
+
+**Thoughts:**: Actually I meet with some guys coding alive - "Coffee and Code - Fort Collins". It was a great event and lots of conversations about perspective of programming happening. It's my first time being there, so kind of nervous when it comes to introduce myself to everybody, but everyone is just being very friendly and nice to me, which calms me down a little bit. The funny part about this meeting is that it turns out to be like a lot of conversations happening which is weird (if you will) for us programmer :)
+
+**Link to work:** 
+1. none
+---
