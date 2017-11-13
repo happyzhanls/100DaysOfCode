@@ -153,3 +153,13 @@ A summary of RESTful routes.
 **Link to work:** 
 1. none
 ---
+
+### Day 40: Sunday, November 12th, 2017
+
+**Today's Progress**: Viewed tons of other developer's portfolios and got tons of ideas. Chose one from them and applied my fucking action while it's still under construction 😍
+
+**Thoughts:**: Watched this video in the morning and liked it - [Always Be Closing](https://www.youtube.com/watch?v=Q4PE2hSqVnk)
+
+**Link to work:** 
+1. [Portfolio X](https://codepen.io/linsong/pen/ZapdyJ)
+---
