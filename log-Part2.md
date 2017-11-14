@@ -163,3 +163,13 @@ A summary of RESTful routes.
 **Link to work:** 
 1. [Portfolio X](https://codepen.io/linsong/pen/ZapdyJ)
 ---
+
+### Day 41: Monday, November 13th, 2017
+
+**Today's Progress**: Went to a local beer and code meeting with other developers. Not really feeling interested and motivated there though😞. Today: stuck kinda on trying to show the hidden text when hovering the image.
+
+**Thoughts:**: Watch a NBA game (GS Warriors vs OR magic). Warriors just kill magic in the 3rd quater.
+
+**Link to work:** 
+1. [Portfolio X](https://codepen.io/linsong/pen/ZapdyJ)
+---
