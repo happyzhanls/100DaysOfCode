@@ -97,15 +97,15 @@ req.query.Name <-> form-method:"get"-<input name="Name">
 
 A summary of RESTful routes.
 
-| URL            | HTTP Verb | Action  | Description                      |
-| :------------- | :-------: | :-----: | :------------------------------- |
-| /dogs          | GET       | index   | Show all items                   |
-| /dogs/new      | GET       | new     | Show new form                    |
-| /dogs          | POST      | create  | Create an item                   |
-| /dogs/:id      | GET       | show    | Show item with :id               |
-| /dogs/:id/edit | GET       | edit    | Show edit form for item with :id |
-| /dogs/:id      | PATCH     | update  | Update item with :id             |
-| /dogs/:id      | DELETE    | destroy | Delete item with :id             |
+| Action  | URL            | HTTP Verb | Description                                    |
+| :-----: | :------------- | :-------: | :--------------------------------------------- |
+| index   | /dogs          | GET       | List all dogs                                  |
+| new     | /dogs/new      | GET       | Show new dog form                              |
+| create  | /dogs          | POST      | Create a new dog, then redirect somewhere      |
+| show    | /dogs/:id      | GET       | Show information about one specific dog        |
+| edit    | /dogs/:id/edit | GET       | Show edit form for a specific dog              |
+| update  | /dogs/:id      | PUT       | Update a specific dog, then redirect somewhere |
+| destroy | /dogs/:id      | DELETE    | Delete a specific dog, then redirect somewhere |
 
 
 **Thoughts:**: Under some pressure from my family. Life is not always as you wish.
