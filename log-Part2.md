@@ -172,4 +172,14 @@ A summary of RESTful routes.
 
 **Link to work:** 
 1. [Portfolio X](https://codepen.io/linsong/pen/ZapdyJ)
+
+
+### Day 42: Wednesday, November 15th, 2017
+
+**Today's Progress**: Add header and footer partials for blogApp. Include a simple navbar using Semantic UI😞.
+
+**Thoughts:**: 🏀Calverilers vs hornet!
+
+**Link to work:** 
+1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
 ---
