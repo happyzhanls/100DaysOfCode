@@ -183,3 +183,13 @@ A summary of RESTful routes.
 **Link to work:** 
 1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
 ---
+
+### Day 43: Thursday, November 16th, 2017
+
+**Today's Progress**: Add "create" and "new" RESTful Routes to blog app. I will work on the "show" Route today later. Hopefully I can finish the app today. 😍😍😍
+
+**Thoughts:**: 🏀Golden State Warriors vs Boston Celtics tonight, the best two teams in the NBA. I'm looking forward to it!
+
+**Link to work:** 
+1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
+---
