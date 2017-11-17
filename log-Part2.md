@@ -193,3 +193,13 @@ A summary of RESTful routes.
 **Link to work:** 
 1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
 ---
+
+### Day 43: Thursday, November 16th, 2017
+
+**Today's Progress**: watched some cs50 dope videos but failed asleep on the half way.. It was like "Oh, the audio is still on, what did I do one hour ago?" But anyway, cs50 is as great as people said online.😍
+
+**Thoughts:**: 🏀Dope, it's dope.
+
+**Link to work:** 
+1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
+---
