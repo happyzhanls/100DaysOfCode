@@ -194,12 +194,22 @@ A summary of RESTful routes.
 1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
 ---
 
-### Day 43: Thursday, November 16th, 2017
+### Day 44: Friday, November 17th, 2017
 
 **Today's Progress**: watched some cs50 dope videos but failed asleep on the half way.. It was like "Oh, the audio is still on, what did I do one hour ago?" But anyway, cs50 is as great as people said online.😍
 
 **Thoughts:**: 🏀Dope, it's dope.
 
 **Link to work:** 
-1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
+1. None
+---
+
+### Day 45: Sunday, November 19th, 2017
+
+**Today's Progress**: Start watching videos about patatap clone stragities and write some initial codes. will watch more today.
+
+**Thoughts:**: No basketball!
+
+**Link to work:** 
+1. None
 ---
