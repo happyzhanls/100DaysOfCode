@@ -213,3 +213,13 @@ A summary of RESTful routes.
 **Link to work:** 
 1. None
 ---
+
+### Day 46: Wednesday, November 22th, 2017
+
+**Today's Progress**: watched some videos about RESTful Routes and finished the show route part.
+
+**Thoughts:**: DFO!
+
+**Link to work:** 
+1. None
+---
