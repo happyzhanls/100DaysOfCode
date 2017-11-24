@@ -226,9 +226,19 @@ A summary of RESTful routes.
 
 ### Day 47: Thursday, November 23th, 2017
 
-**Today's Progress**: 1. Add show route. 2. Add show template. 3. Add links to show page. 4. Style show template. All done by following colt's videos about RESTful Routing.
+**Today's Progress**: 1. Add Show route. 2. Add Show template. 3. Add links to show page. 4. Style show template. All done by following colt's videos about RESTful Routing.
 
 **Thoughts:**: This is not inconsistent for me. I keep losing focus on my job. This is bad. I cannot let this happen any more. 
+
+**Link to work:** 
+1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
+---
+
+### Day 48: Friday, November 24th, 2017
+
+**Today's Progress**: 1. Add Edit route. 2. Add Edit form. 3. Add Update route. 4. Add Update form. 5. Add Method-Override. All done by following colt's videos about RESTful Routing.
+
+**Thoughts:**: Keep up working on back end or server side development!
 
 **Link to work:** 
 1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
