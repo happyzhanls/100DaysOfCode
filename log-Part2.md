@@ -223,3 +223,13 @@ A summary of RESTful routes.
 **Link to work:** 
 1. None
 ---
+
+### Day 47: Thursday, November 23th, 2017
+
+**Today's Progress**: 1. Add show route. 2. Add show template. 3. Add links to show page. 4. Style show template. All done by following colt's videos about RESTful Routing.
+
+**Thoughts:**: This is not inconsistent for me. I keep losing focus on my job. This is bad. I cannot let this happen any more. 
+
+**Link to work:** 
+1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
+---
