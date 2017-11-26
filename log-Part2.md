@@ -243,3 +243,13 @@ A summary of RESTful routes.
 **Link to work:** 
 1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
 ---
+
+### Day 49: Saturday, November 25th, 2017
+
+**Today's Progress**: Add express-sanitizer to the new.ejs file. 
+
+**Thoughts:**: Nothing too excited but I'm powered up for the upcoming challenges.
+
+**Link to work:** 
+1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
+---
