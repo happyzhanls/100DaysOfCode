@@ -246,9 +246,9 @@ A summary of RESTful routes.
 
 ### Day 49: Saturday, November 25th, 2017
 
-**Today's Progress**: Add express-sanitizer to the new.ejs file. 
+**Today's Progress**: learnt how to associate data among different mongoose schemas. For example, one user has many comments but one comment only belongs to a single user. There are two ways: 1. Embed data. 2. Reference data. It depends on cases which one you should use!🤓
 
-**Thoughts:**: Nothing too excited but I'm powered up for the upcoming challenges.
+**Thoughts:**: I'm powered up for the upcoming final week challenges!
 
 **Link to work:** 
 1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
