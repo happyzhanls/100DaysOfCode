@@ -253,3 +253,13 @@ A summary of RESTful routes.
 **Link to work:** 
 1. [Super-Broccoli](https://ide.c9.io/danielzhan/supreme-broccoli)
 ---
+
+### Day 50: Sunday, November 26th, 2017
+
+**Today's Progress**: 1. Module.exports. 2. Refactoring mongoose codes and move models to separate files for my YelpCamp.
+
+**Thoughts:**: I'm powered up for the upcoming final week challenges!
+
+**Link to work:** 
+1. [YelpCamp](https://ide.c9.io/danielzhan/the-matrix)
+---
