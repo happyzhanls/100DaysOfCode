@@ -18,8 +18,17 @@
 1. [danielzhan:~/workspace/APIs/movieSearchApp](https://ide.c9.io/danielzhan/the-matrix)
 ---
 
-
 ### Day 53: Wednesday, November 29th, 2017
+
+**Today's Progress**: discussed with my classmate and wrote Matlab functions implementing frequency estimation using zero-crossing method. And we get them working after 3 hours. Good job from him. But I don't know his twitter account. ❓
+
+**Thoughts**: A tough day, I don't feel like I can do this coding challenge for 100 days. It's really hard for u to keep doing the same thing without rewarding.
+
+**Link to work:** 
+1. Hw3Ass no link.
+---
+
+### Day 54: Thursday, November 30th, 2017
 
 **Today's Progress**: discussed with my classmate and wrote Matlab functions implementing frequency estimation using zero-crossing method. And we get them working after 3 hours. Good job from him. But I don't know his twitter account. ❓
 
