@@ -37,3 +37,23 @@
 **Link to work:** 
 1. Hw3Ass no link.
 ---
+
+### Day 55: Friday, December 1st, 2017
+
+**Today's Progress**: Nothing specifically
+
+**Thoughts**: Toke a day off.
+
+**Link to work:** 
+1. None.
+---
+
+### Day 56: Saturday, December 2nd, 2017
+
+**Today's Progress**: Working on creating YelpCamp comment model.
+
+**Thoughts**: Should stop playing online game. I find myself addicted to it easily.
+
+**Link to work:** 
+1. YelpCamp.
+---
