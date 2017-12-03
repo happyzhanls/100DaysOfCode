@@ -30,12 +30,12 @@
 
 ### Day 54: Thursday, November 30th, 2017
 
-**Today's Progress**: discussed with my classmate and wrote Matlab functions implementing frequency estimation using zero-crossing method. And we get them working after 3 hours. Good job from him. But I don't know his twitter account. ❓
+**Today's Progress**: Modified the Js structure of my RGB color game project.
 
-**Thoughts**: A tough day, I don't feel like I can do this coding challenge for 100 days. It's really hard for u to keep doing the same thing without rewarding.
+**Thoughts**: .
 
 **Link to work:** 
-1. Hw3Ass no link.
+1. 
 ---
 
 ### Day 55: Friday, December 1st, 2017
@@ -53,6 +53,16 @@
 **Today's Progress**: Working on creating YelpCamp comment model.
 
 **Thoughts**: Should stop playing online game. I find myself addicted to it easily.
+
+**Link to work:** 
+1. YelpCamp.
+---
+
+### Day 57: Sunday, December 3rd, 2017
+
+**Today's Progress**: Figure out completely how object reference(a way of applying data association) works.
+
+**Thoughts**: blah blah blah
 
 **Link to work:** 
 1. YelpCamp.
