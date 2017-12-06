@@ -67,3 +67,13 @@
 **Link to work:** 
 1. YelpCamp.
 ---
+
+### Day 58: Tuesday, December 5th, 2017
+
+**Today's Progress**: Did some freecodecamp challenges. Now I'm on 141. Planning to do more tomorrow!
+
+**Thoughts**: #freecodecamp meeting today!# 
+
+**Link to work:** 
+1. freecodecamp challenges.
+---
