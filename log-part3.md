@@ -77,3 +77,13 @@
 **Link to work:** 
 1. freecodecamp challenges.
 ---
+
+### Day 59: Wednesday, December 6th, 2017
+
+**Today's Progress**: More freecodecamp challenges. Now I'm on 200 in the MAP.
+
+**Thoughts**: #old friend meeting!# 
+
+**Link to work:** 
+1. freecodecamp challenges.
+---
