@@ -87,3 +87,13 @@
 **Link to work:** 
 1. freecodecamp challenges.
 ---
+
+### Day 60: Friday, December 8th, 2017
+
+**Today's Progress**: Building the blog app and try to deploy it somewhere.
+
+**Thoughts**: #old friend meeting!# 
+
+**Link to work:** 
+1. ~
+---
