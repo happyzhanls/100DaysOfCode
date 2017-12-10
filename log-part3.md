@@ -35,7 +35,7 @@
 **Thoughts**: .
 
 **Link to work:** 
-1. 
+1. I got no time for this!
 ---
 
 ### Day 55: Friday, December 1st, 2017
@@ -96,4 +96,14 @@
 
 **Link to work:** 
 1. ~
+---
+
+### Day 61: Saturday, December 9th, 2017
+
+**Today's Progress**: Did some Freecodecamp challenges, but most of the time I try to finish the final project and just do experiments in Matlab.
+
+**Thoughts**: Yah, you'd better be ready for the final week! It ain't mean to be easy.
+
+**Link to work:** 
+1. A comparison of traditional frequency estimation methods on noise-free signals
 ---
