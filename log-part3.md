@@ -105,5 +105,15 @@
 **Thoughts**: Yah, you'd better be ready for the final week! It ain't mean to be easy.
 
 **Link to work:** 
-1. A comparison of traditional frequency estimation methods on noise-free signals
+1. Comparison of traditional frequency estimation methods on single-tone cosine signals with noises
+---
+
+### Day 62: Tuesday, December 12th, 2017
+
+**Today's Progress**: Styled the show.ejs page that is rendered by show route so that it looks organized now!
+
+**Thoughts**: I absolutely like working with people in this final week. It helps each other a lot.
+
+**Link to work:** 
+1. YelpCamp.
 ---
