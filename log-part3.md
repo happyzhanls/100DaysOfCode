@@ -117,3 +117,13 @@
 **Link to work:** 
 1. YelpCamp.
 ---
+
+### Day 63: Wednesday, December 13th, 2017
+
+**Today's Progress**: Watched videos about Authentication using Passport.js
+
+**Thoughts**: ysduasody
+
+**Link to work:** 
+1. YelpCamp.
+---
