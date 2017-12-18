@@ -127,3 +127,13 @@
 **Link to work:** 
 1. YelpCamp.
 ---
+
+### Day 64: Sunday, December 17th, 2017
+
+**Today's Progress**: did some routing.
+
+**Thoughts**: Christmas is coming but I need a job!
+
+**Link to work:** 
+1. YelpCamp.
+---
