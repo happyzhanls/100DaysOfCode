@@ -137,3 +137,13 @@
 **Link to work:** 
 1. YelpCamp.
 ---
+
+### Day 65: Monday, December 18th, 2017
+
+**Today's Progress**: deploying some staff on heroku.
+
+**Thoughts**: Kobe's jerseies retire
+
+**Link to work:** 
+1. YelpCamp.
+---
