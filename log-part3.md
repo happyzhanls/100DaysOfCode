@@ -147,3 +147,13 @@
 **Link to work:** 
 1. YelpCamp.
 ---
+
+### Day 66: Wednesday, December 20th, 2017
+
+**Today's Progress**: did the authentication for YelpCamp applications
+
+**Thoughts**: My roommate and I went to the skiloveland for skiing and falling down :). I grew up and was better at skiing after couple falling down though. I appreciate everything today.
+
+**Link to work:** 
+1. YelpCamp.
+---
