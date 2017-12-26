@@ -157,3 +157,13 @@
 **Link to work:** 
 1. YelpCamp.
 ---
+
+### Day 67: Monday, December 25th, 2017
+
+**Today's Progress**: Nested the comment form inside the campground show.ejs page. Add edit and destroy routes for comments too.
+
+**Thoughts**: Merry Christmas.
+
+**Link to work:** 
+1. YelpCamp.
+---
