@@ -167,3 +167,13 @@
 **Link to work:** 
 1. YelpCamp.
 ---
+
+### Day 68: Wednesday, December 27th, 2017
+
+**Today's Progress**: Didn't realize that I have been off on social media for 10 days 😯. I had a big stomach today so not a lot coding. Rewrote the navbar using #bootstrap4 and added the new modal feature inside the "comment"..
+
+**Thoughts**: My body's been painful for a whole day long after a fantastic journey of skiing in the wyoming snowy range yesterdayyy😋.
+
+**Link to work:** 
+1. YelpCamp
+---
