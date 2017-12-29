@@ -177,3 +177,13 @@
 **Link to work:** 
 1. YelpCamp
 ---
+
+### Day 69: Thursday, December 27th, 2017
+
+**Today's Progress**: Finished the authentication for comment.
+
+**Thoughts**: 
+
+**Link to work:** 
+1. YelpCamp
+---
