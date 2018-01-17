@@ -197,3 +197,13 @@
 **Link to work:** 
 1. [yelp-camp-x](https://yelp-camp-x.herokuapp.com)
 ---
+
+### Day 71: Tuesday, January 16th, 2017
+
+**Today's Progress**: tons of updates in my new site.
+
+**Thoughts**: I know I can do it!
+
+**Link to work:** 
+1. [yelp-camp-x](https://yelp-camp-x.herokuapp.com)
+---
