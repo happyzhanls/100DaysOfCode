@@ -5,4 +5,5 @@
 * Log - click to see my process
   1. [D1-D25](log-Part1.md)
   2. [D26-D50](log-Part2.md)
+  3. [D51-D75](log-Part3.md)
 * [FAQ](FAQ.md)
