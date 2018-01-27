@@ -172,7 +172,7 @@
 
 **Today's Progress**: Didn't realize that I have been off on social media for 10 days 😯. I had a big stomach today so not a lot coding. Rewrote the navbar using #bootstrap4 and added the new modal feature inside the "comment"..
 
-**Thoughts**: My body's been painful for a whole day long after a fantastic journey of skiing in the wyoming snowy range yesterdayyy😋. 
+**Thoughts**: My body's been painful for a whole day long after a fantastic journey of skiing in the wyoming snowy range😋. 
 
 **Link to work:** 
 1. YelpCamp
@@ -200,10 +200,21 @@
 
 ### Day 71: Tuesday, January 16th, 2017
 
-**Today's Progress**: tons of updates in my new site.
+**Today's Progress**: Do not want to talk a lot today. 
 
 **Thoughts**: I know I can do it!
 
 **Link to work:** 
 1. [yelp-camp-x](https://yelp-camp-x.herokuapp.com)
+---
+
+### Day 72: Friday, January 26th, 2017
+
+**Today's Progress**: Day 1/100 👍 #100DaysOfCode Finished the Bitcoin Price Exercise in the section of AJAX, the Advanced Web Developer Bootcamp by Colt and etc.. 
+
+**Thoughts**: I know I can do it!
+
+**Link to work:** 
+1. [Here's the starter code link](https://codepen.io/Colt/pen/PKjOdg)
+2. [Here's my solution link](https://codepen.io/linsong/pen/qpeKwq)
 ---
